@@ -5,8 +5,7 @@ I am Emhonfubhegbe Osayi Bishop,an experienced software engineer passionate abou
 
 
 ### Social Handle
-
-[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/osayibishop]  [Linkedin](https://www.linkedin.com/in/osayibishop) 
+[Linkedin](https://www.linkedin.com/in/osayibishop) 
 
 
 
