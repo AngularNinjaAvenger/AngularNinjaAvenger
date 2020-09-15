@@ -1,4 +1,4 @@
-# Hello, Ninja  :smile: 
+# Hello, Ninjas  :smile: 
 
 I am Emhonfubhegbe Osayi Bishop,an experienced software engineer passionate about solving problems and coding is a tool i use to achieve this this :) .
 
