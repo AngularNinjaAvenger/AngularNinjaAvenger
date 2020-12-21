@@ -41,7 +41,7 @@ __Cross platform Mobile__: Flutter,React native
 
 ### Experience
 
-__Cache__ ( March 2020 - August 2020 )
+__Cache__ ( March 2020 - present )
 
 __Beacon__ ( March 2020 )
 
