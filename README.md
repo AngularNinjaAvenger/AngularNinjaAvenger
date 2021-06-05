@@ -52,10 +52,6 @@ __Chafec__ (March 2019 - March 2020)
 __Web Applications__:
 - [Twitter Clone](https://github.com/AngularNinjaAvenger/twitter-clone-react) 
 - [Ecommerce SpringBoot Backend](https://github.com/AngularNinjaAvenger/ecommerce-SpringBoot-backend)
-- [Arcade Game](https://github.com/AngularNinjaAvenger/arcade-game)
-- [Would You Rather](https://github.com/AngularNinjaAvenger/would-you-rather)
-- [Memory Game](https://github.com/AngularNinjaAvenger/memory-game)
-- [Fend_animal_trading_cards](https://github.com/AngularNinjaAvenger/fend_animal_trading_cards)
 
 __Mobile Applications__:
 - [Covid App](https://github.com/AngularNinjaAvenger/CovidApp)
