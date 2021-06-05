@@ -47,10 +47,6 @@ __Beacon__ ( March 2020 )
 
 __Chafec__ (March 2019 - March 2020)
 
-__SellBuyQuick__ (October 2018 - March 2019)
-
-
-
 ### Personal Projects
 
 __Web Applications__:
